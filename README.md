@@ -24,6 +24,6 @@ marijatech | E-commerce Sales Dashboard | Power BI Project | SQL Analysis | Data
 ---
 ### 💌 Let's connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/djuricmarija/)
-- 💻 [Portfolio](https://marijatech.github.io/Portfolio/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hanisilya/)
+- 💻 [Blog](https://hanisilya.vercel.app/)
 
