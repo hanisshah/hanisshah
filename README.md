@@ -5,7 +5,7 @@ marijatech | E-commerce Sales Dashboard | Power BI Project | SQL Analysis | Data
 <h1 align="center">👋 Hi,Hanis!</h1>
 
 💻 Data Analyst sharing my projects and growth in tech   
-🎓 Graduated in Software and Data Engineering  
+🎓 Graduated in Mathematical Modelling and Information Technology  
 📊 Passionate about data storytelling, dashboards & automation  
 🔍 Exploring opportunities in analytics, BI, and insights generation  
 🧠 Forever curious. Always building something new!
